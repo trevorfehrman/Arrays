@@ -8,7 +8,7 @@ By the end of this assignment, you will gain much appreciation for the magic of 
 
 Similar to last week's assignment, move into the arrays directory and add your code to `arrays.c`. Run it by typing `make`, then `./arrays`. Run tests with `make tests`.
 
-### Part 1: Create, Destroy, Read and Append
+### Part 1: Create, Destroy, Read and Append bllop
 
 You are given the skeleton of an array implementation in C which you will be responsible for filling out. Start by reviewing the Array struct, then fill out the following functions:
 
